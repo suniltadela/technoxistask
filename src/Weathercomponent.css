@@ -11,9 +11,9 @@
     border-bottom: 2px solid #ccc; 
   }
   
-  .temperature-section {
+  /* .temperature-section {
     padding-top: 10px; 
-  }
+  } */
   
   .mmgrid {
     display: flex;
